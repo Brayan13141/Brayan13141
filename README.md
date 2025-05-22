@@ -1,76 +1,99 @@
-<!-- Dynamic Banner with Tech Stack -->
+<!-- 📌 Dynamic Banner with Tech Stack -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BRYAN/BRYAN/master/banner.png" alt="Banner" /> 
+  <img src="https://raw.githubusercontent.com/Brayan13141/Brayan13141/master/banner.png" alt="Banner" /> 
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Researcher;Cloud+Enthusiast" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Mobile+%26+Web+Developer;Full+Stack+Engineer;" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 Hola, soy Bryan Sanchez | 👋 Hello, I'm Bryan Sanchez</h1>
-
-<h3 align="center">🛡️ Ingeniero en Sistemas Computacionales & Redes</h3>
-<h3 align="center">🔐 Computer Systems Engineer</h3>
+<h1 align="center">👋 ¡Hola! | Hello! I'm Bryan Sanchez</h1>
 
 ---
 
-### 🔥 Tech Stack Superpoderes / Tech Superpowers
-<p align="center">
-  <!-- Animated Tech Stack SVG -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,compose,,python,django,git,cisco,&theme=dark&perline=8" alt="Tech Stack" />
-</p>
+## 👨‍💻 Sobre mí / About Me
+
+- 👨‍🎓 **Último semestre** de Ingeniería en Sistemas Computacionales | **Last semester** of Computer Systems Engineering  
+- 📚 Estudio en **TecNM Campus Sur de Guanajuato**  | 📚 Studying at **TecNM Campus Sur de Guanajuato**  
+- 🏙️ Vivo en **Guanajuato, México**  | 🏙️ I live in **Guanajuato, México**  
+- 📱 Desarrollo **Apps Móviles (Android + Kotlin)**  | 📱 Focused on **Mobile App Development (Android + Kotlin)**  
+- 🛡️ Apasionado de **Ciberseguridad** (Pentesting, Redes, Linux, Red Team)  | 🛡️ Cybersecurity Enthusiast (Pentesting, Networks, Linux, Red Team)  
+- 🚩 Interés en **UX/UI**, Rendimiento de Apps & Código Seguro | 🚩 Interested in **UX/UI Design**, App Performance & Secure Code  
+- 💼 Buscando nuevas **oportunidades laborales** e **internships** | 💼 Seeking new **job opportunities** and **internships**  
+- 🧠 Aprendizaje rapido y Autodidacta  | 🧠 Quick and self -taught learning
+
 
 ---
 
-## 🧰 Mis Herramientas & Plataformas / Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-0070AD?logo=cisco&logoColor=white&style=for-the-badge" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-</p>
+## 🌐 Contáctame / Reach Me
 
----
-
-## 📊 Estadísticas de GitHub / GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brayan13141&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan13141&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="mailto:sanchezmonroybryan.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/brayan13141"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## 📈 Gráfica de contribuciones / Contribution Graph
+## 🧰 Tech Stack & Herramientas / Tech Stack & Tools
+
+### 🖥️ Lenguajes / Languages  
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Brayan13141&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,js,csharp,html,css&theme=dark" alt="Languages"/>
+</p>
+
+### 🧠 Frameworks & Librerías / Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind&theme=dark" alt="Frameworks & Libraries"/>
+</p>
+
+### 🛠️ IDEs & Herramientas / IDEs & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,tortoisegit,git,figma,trello,sqlite,mysql&theme=dark" alt="IDEs & Tools"/>
+</p>
+
+### 📱 Plataformas & SO / Platforms & OS  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,windows,linux&theme=dark" alt="Platforms & OS"/>
+</p>
+
+### 🌍 Idiomas / Spoken Languages  
+- 🇲🇽 Español – Nativo / Native Spanish  
+- 🇺🇸 Inglés – Conversacional / English – Conversational  
+
+---
+
+## 💼 Proyectos / My Projects
+
+| Proyecto / Project                                    | Descripción / Description                                             | Tecnologías / Tech                          |
+|-------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|
+| 📲 **Sistema Rummap (App de Parqueo)**                | App para generar tickets vía impresora Bluetooth                       | Kotlin, Compose, Django, SQLite             |
+| 🏋️‍♂️ **Gym App (Administrador de Gimnasio)**            | Control de clientes y membresías                                       | MIT App Inventor, C#, SQL Server            |
+| 🧾 **Sistema Picel**                                  | Sistema de facturación y control de stock                              | HTML, CSS, JavaScript, PHP, MySQL           |
+
+---
+
+## 📈 Estadísticas de GitHub / GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brayan13141&show_icons=true&theme=radical" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan13141&layout=compact&theme=radical" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Brayan13141&theme=react-dark" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brayan13141&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🎓 Formación Académica / Education
-- **Tecnico programador** - Preparatoria: Cbtis 217 (2017-2020)
-- **Ingeniería en Sistemas Computacionales** — Universidad: Instituto Tecnologico del Sur de Guanajuato ITSUR (2020–Presente)   
----
+## 💡 Datos Curiosos & Habilidades / Fun Facts & Skills
 
-## 💼 Experiencia & Proyectos / Experience & Projects
-| Proyecto / Role                                     | Tecnología / Tools                      | Periodo             |
-|-----------------------------------------------------|-----------------------------------------|---------------------|
-| **App de Parqueo Bluetooth**                        | AndroidStuio,Kotlin, Bluetooth, Thermal Print | 2024 – Presente     |
-| **Simulación de Ataques MITM**                      | Kali Linux, Ettercap, Wireshark         | 2023 – 2024         |
-| **Hardened OWASP Juice Shop**                       | Node.js, Docker, OWASP ZAP              | 2023                |
-| **Ingeniero de Redes & Seguridad (Laboratorio Cisco)** | Cisco IOS, OSPF, NAT, ACLs, SSH         | 2022 – 2023         |
+- 🛡️ Conocimiento y manejo de redes 
+- ⚡ Trabajo eficiente bajo presión y orientado a resultados  
+- 🔐 Diseño de sistemas móviles y web seguros y escalables  
 
 ---
-
-
----
-
-## 📚 Recursos & Enlaces / Resources & Links 
-- 🔗 **LinkedIn:** https://linkedin.com/in/tuperfil  
-- 📫 **Contacto:** juan.perez@example.com  
-
----
-
-> “Tu competencia ya está trabajando mientras tú lees esto.”  
-> “Si no sientes incomodidad, no estás progresando.”  
-> “Cada segundo que pierdes es una oportunidad que otros aprovechan.”  
-
 <p align="center">
-  Made with ❤️ and ☕ by **Juan Pérez**
+  Hecho con café ☕  y código 💻.  | Made with ☕ coffee and 💻 code
 </p>
