@@ -1,7 +1,5 @@
 <!-- 📌 Dynamic Banner with Tech Stack -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Brayan13141/Brayan13141/master/banner.png" alt="Banner" /> 
-  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Mobile+%26+Web+Developer;Full+Stack+Engineer;" alt="Typing SVG" />
 </p>
 
