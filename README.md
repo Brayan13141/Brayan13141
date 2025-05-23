@@ -31,8 +31,10 @@
 ## 🌐 Contáctame / Reach Me
 
 <p align="center">
-  <a href="sanchezmonrotbryan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:sanchezmonrotbryan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <label>sanchezmonrotbryan@gmail.com</label>
   <a href="www.linkedin.com/in/brayan-sanchez-monroy-aa037a366"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <label>www.linkedin.com/in/brayan-sanchez-monroy-aa037a366</label>
 </p>
 
 ---
