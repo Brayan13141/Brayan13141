@@ -17,8 +17,8 @@
   **I live in Guanajuato, México**  
 - 📱 Desarrollo **Apps Móviles (Android + Kotlin)**  
   **Focused on Mobile App Development (Android + Kotlin)**  
-- 🛡️ Apasionado de **Ciberseguridad** (Pentesting, Redes, Linux, Red Team)  
-  **Cybersecurity Enthusiast (Pentesting, Networks, Linux, Red Team)**  
+- 🛡️ Apasionado de **Ciberseguridad** (Pentesting, Redes, Red Team)  
+  **Cybersecurity Enthusiast (Pentesting, Networks, Red Team)**  
 - 🚩 Interés en **UX/UI**, Rendimiento de Apps & Código Seguro  
   **Interested in UX/UI Design, App Performance & Secure Code**  
 - 💼 Buscando nuevas **oportunidades laborales** e **internships**  
@@ -51,7 +51,7 @@
 
 ### 🛠️ IDEs & Herramientas / IDEs & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,tortoisegit,git,figma,trello,sqlite,mysql,docker&theme=dark" alt="IDEs & Tools"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,tortoisegit,git,figma,trello,sqlite,mysql&theme=dark" alt="IDEs & Tools"/>
 </p>
 
 ### 📱 Plataformas & SO / Platforms & OS  
@@ -102,7 +102,7 @@
 
 ## 💡 Datos Curiosos & Habilidades / Fun Facts & Skills
 
-- 🛡️ Conocimiento y manejo de redes Cisco & Linux  
+- 🛡️ Conocimiento y manejo de redes Cisco
 - ⚡ Trabajo eficiente bajo presión y orientado a resultados  
 - 🔐 Diseño de sistemas móviles y web seguros y escalables  
 
