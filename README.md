@@ -74,8 +74,8 @@
 
 | Proyecto / Project                                    | Descripción / Description                                             | Tecnologías / Tech                          |
 |-------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|
-| 📲 **Sistema Rummap (App de Parqueo)**                | App para generar tickets vía impresora Bluetooth                       | Kotlin, Compose, Django, SQLite             |
-| 🏋️‍♂️ **Gym App (Administrador de Gimnasio)**           | Control de clientes y membresías                                       | MIT App Inventor, C#, SQL Server            |
+| 📲 **Sistema Rummap (App de Parqueo)**                | App para administrar un estacionamiento(entradas,tickets,etc.)         | Kotlin, Compose, Django, SQLite             |
+| 🏋️‍♂️ **Gym App (Administrador de Gimnasio)**            | Control de clientes y membresías                                       | MIT App Inventor, C#, SQL Server            |
 | 🧾 **Sistema Picel**                                  | Sistema de facturación y control de stock                              | HTML, CSS, JavaScript, PHP, MySQL           |
 
 ---
