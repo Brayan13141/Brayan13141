@@ -89,14 +89,6 @@
 
 ---
 
-## 🌟 Contribuciones / Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.demolab.com/graph?username=Brayan13141&theme=react-dark" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 👁️‍🗨️ Vistas de Perfil / Profile Views
 
 <p align="center">
