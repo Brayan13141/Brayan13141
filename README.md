@@ -9,10 +9,10 @@
 
 ## 👨‍💻 Sobre mí / About Me
 
-- 👨‍🎓 **Último semestre** de Ingeniería en Sistemas Computacionales  
-  **Last semester** of Computer Systems Engineering  
-- 📚 Estudio en **TecNM Campus Sur de Guanajuato**  
-  **Studying at TecNM Campus Sur de Guanajuato**  
+- 👨‍🎓 Ingeniería en Sistemas Computacionales  
+   Computer Systems Engineering  
+- 📚**TecNM Campus Sur de Guanajuato**  
+  TecNM Campus Sur de Guanajuato**  
 - 🏙️ Vivo en **Guanajuato, México**  
   **I live in Guanajuato, México**  
 - 📱 Desarrollo **Apps Móviles (Android + Kotlin)**  
